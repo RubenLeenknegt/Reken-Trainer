@@ -7,7 +7,7 @@ Als de gebruiker het gewenste aantal rekensommen heeft gemaakt worden de eindres
 
 **Om de sourcecode in te zien: ga naar src/rekentrainer>Rekentrainer.java**
 
-
+**Gemaakt in JavaFX versie 8.2**
 
 Invoeren van gebruikers naam:
 
